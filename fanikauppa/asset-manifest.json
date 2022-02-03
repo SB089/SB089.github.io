@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fanikauppa/static/css/main.0d5194ab.css",
+    "main.js": "/fanikauppa/static/js/main.cbd6285c.js",
+    "static/js/787.390cfc4f.chunk.js": "/fanikauppa/static/js/787.390cfc4f.chunk.js",
+    "static/media/jewelry1.jpg": "/fanikauppa/static/media/jewelry1.bcdb874bb0f439f9474c.jpg",
+    "static/media/jewelry3.jpg": "/fanikauppa/static/media/jewelry3.ba1697777930b1d7426a.jpg",
+    "static/media/jewelry2.jpg": "/fanikauppa/static/media/jewelry2.4d2acce79f3ab6265b44.jpg",
+    "index.html": "/fanikauppa/index.html",
+    "main.0d5194ab.css.map": "/fanikauppa/static/css/main.0d5194ab.css.map",
+    "main.cbd6285c.js.map": "/fanikauppa/static/js/main.cbd6285c.js.map",
+    "787.390cfc4f.chunk.js.map": "/fanikauppa/static/js/787.390cfc4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5194ab.css",
+    "static/js/main.cbd6285c.js"
+  ]
+}
